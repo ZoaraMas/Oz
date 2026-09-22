@@ -1,0 +1,2 @@
+# 11-09-2026
+- -> Changer en postgres 17, apprendre a modifier un entite(modifier employes pour juste avoir emp. Et demande si c'est vraiment la norme d'avoir majuscule au debut et s a la fin car on prefere bien evidemment sans)
